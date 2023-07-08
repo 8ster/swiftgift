@@ -1,0 +1,222 @@
+{
+    "products": [
+      {
+        "name": "Anki Cozmo Robot",
+        "description": "This interactive robot is a great gift for kids of all ages. It can be programmed to do tricks, play games, and even learn new things.",
+        "rating": 5,
+        "price": 1799
+      },
+      {
+        "name": "LEGO Creator Mighty Dinosaurs Triceratops",
+        "description": "This 3-in-1 LEGO set lets kids build a Triceratops, a Triceratops with a baby, or a Triceratops skeleton. It's a great way for kids to learn about dinosaurs and have fun at the same time.",
+        "rating": 4.5,
+        "price": 1599
+      },
+      {
+        "name": "Fisher-Price Imaginext DC Super Friends Batcave",
+        "description": "This action-packed Batcave set comes with Batman, Robin, and a host of other DC Super Friends characters. Kids can use the set to recreate their favorite Batman stories or create their own adventures.",
+        "rating": 4.3,
+        "price": 1999
+      },
+      {
+        "name": "SKLZ Quickster Portable Basketball Hoop",
+        "description": "This portable basketball hoop is a great way for kids to practice their hoops skills at home. It's easy to set up and take down, and it folds up for compact storage.",
+        "rating": 4.2,
+        "price": 1299
+      },
+
+      {
+        "category": "Learning Toys",
+        "name": "LeapFrog LeapStart Interactive Learning System",
+        "description": "This interactive learning system helps kids learn their ABCs, numbers, and more. It comes with a variety of games and activities that are sure to keep kids entertained.",
+        "rating": 4.5,
+        "price": 1799
+      },
+      {
+        "category": "Learning Toys",
+        "name": "VTech InnoTab Max 3 Learning Tablet",
+        "description": "This learning tablet is packed with educational games and apps that will keep kids entertained for hours on end. It also comes with a one-year subscription to VTech's Learning Lodge.",
+        "rating": 4.4,
+        "price": 1599
+      },
+      {
+        "category": "Learning Toys",
+        "name": "Fisher-Price Laugh & Learn Smart Stages Table",
+        "description": "This interactive table features a variety of learning activities that are perfect for toddlers. It's a great way for kids to learn their ABCs, numbers, and colors.",
+        "rating": 4.3,
+        "price": 1299
+      },
+      {
+        "category": "Learning Toys",
+        "name": "Melissa & Doug Wooden Alphabet Train",
+        "description": "This wooden train set is a great way for kids to learn their ABCs. It's also a fun and educational toy that kids will love playing with.",
+        "rating": 4.2,
+        "price": 1099
+      },
+      {
+        "category": "Learning Toys",
+        "name": "Brio Wooden Railway Set",
+        "description": "This wooden railway set is a classic toy that has been enjoyed by children for generations. It's a great way for kids to learn about cause and effect, and it's also a lot of fun to play with.",
+        "rating": 4.1,
+        "price": 1499
+      },
+      {
+        "category": "Arts & Crafts",
+        "name": "Crayola Color Wonder Magic Makers",
+        "description": "This magical coloring set lets kids color with markers that only show up on special Color Wonder paper. It's a great way for kids to be creative and have fun without making a mess.",
+        "rating": 4.5,
+        "price": 1299
+      },
+      {
+        "category": "Arts & Crafts",
+        "name": "Melissa & Doug Water Wow! Coloring Books",
+        "description": "These coloring books are a great way for kids to be creative without making a mess. They use water to reveal the colors, so there's no need for markers or crayons.",
+        "rating": 4.4,
+        "price": 999
+      },
+      {
+        "category": "Arts & Crafts",
+        "name": "Play-Doh Creative Play Dough Set",
+        "description": "This play dough set is a great way for kids to be creative and have fun. It comes with a variety of colors and tools, so kids can create anything they can imagine.",
+        "rating": 4.3,
+        "price": 1199
+      },
+      {
+        "category": "Arts & Crafts",
+        "name": "Lego Duplo Creative Suitcase",
+        "description": "This Lego Duplo set is a great way for kids to be creative and have fun. It comes with a variety of Duplo bricks and pieces, so kids can build anything they can imagine.",
+        "rating": 4.2,
+        "price": 1499
+      },
+      {
+        "category": "Arts & Crafts",
+        "name": "Sequin Art Kit",
+        "description": "This sequin art kit is a great way for kids to be creative and have fun. It comes with a variety of sequins and patterns, so kids can create their own unique designs.",
+        "rating": 4.1,
+        "price": 999
+      },
+      {
+        "category": "Toys",
+        "name": "LeapFrog LeapStart Interactive Learning System",
+        "description": "This interactive learning system helps kids learn letters, numbers, and other basic concepts.",
+        "rating": 4.5,
+        "price": 1999
+      },
+      {
+        "category": "Toys",
+        "name": "VTech InnoTab Max 3 Learning Tablet",
+        "description": "This learning tablet comes with a variety of educational apps and games.",
+        "rating": 4.3,
+        "price": 1799
+      },
+      {
+        "category": "Toys",
+        "name": "Fisher-Price Laugh & Learn Smart Stages Table",
+        "description": "This interactive table helps kids learn colors, shapes, and numbers.",
+        "rating": 4.4,
+        "price": 1599
+      },
+      {
+        "category": "Toys",
+        "name": "Melissa & Doug Wooden Alphabet Train",
+        "description": "This wooden train helps kids learn the alphabet.",
+        "rating": 4.2,
+        "price": 1299
+      },
+      {
+        "category": "Toys",
+        "name": "Brio Wooden Railway Set",
+        "description": "This wooden railway set helps kids build their own train tracks.",
+        "rating": 4.7,
+        "price": 1499
+      },
+      {
+        "category": "Toys",
+        "name": "Crayola Color Wonder Magic Makers",
+        "description": "These markers only work on special Color Wonder paper, so kids can't make a mess.",
+        "rating": 4.3,
+        "price": 1499
+      },
+      {
+        "category": "Toys",
+        "name": "Melissa & Doug Water Wow! Coloring Books",
+        "description": "These coloring books use water instead of crayons, so kids can't make a mess.",
+        "rating": 4.6,
+        "price": 1199
+      },
+      {
+        "category": "Toys",
+        "name": "Play-Doh Creative Play Dough Set",
+        "description": "This set comes with a variety of Play-Doh colors and tools, so kids can create their own masterpieces.",
+        "rating": 4.6,
+        "price": 1099
+      },
+      {
+        "category": "Toys",
+        "name": "Lego Duplo Creative Suitcase",
+        "description": "This suitcase comes with a variety of Lego Duplo bricks, so kids can build their own creations on the go.",
+        "rating": 4.4,
+        "price": 1499
+      },
+      {
+        "category": "Toys",
+        "name": "Sequin Art Kit",
+        "description": "This kit comes with a variety of sequins and templates, so kids can create their own sequin art.",
+        "rating": 4.5,
+        "price": 1299
+      },
+      {
+        "category": "Games",
+        "name": "UNO",
+        "description": "This classic card game is a great way for kids to learn about strategy and teamwork.",
+        "rating": 4.5,
+        "price": 799
+      },
+      {
+        "category": "Games",
+        "name": "Monopoly",
+        "description": "This classic board game is a great way for kids to learn about economics and business.",
+        "rating": 4.3,
+        "price": 999
+      },
+      {
+        "category": "Games",
+        "name": "Chutes and Ladders",
+        "description": "This classic board game is a great way for kids to learn about probability and chance.",
+        "rating": 4.4,
+        "price": 699
+      },
+      {
+        "name": "Crayola Color Wonder Magic Makers",
+        "description": "This magical coloring set allows kids to color with special markers that only show up on Color Wonder paper. It's a great way for kids to be creative and have fun.",
+        "rating": 4.5,
+        "price": 1499
+      },
+      {
+        "name": "Melissa & Doug Water Wow! Coloring Books",
+        "description": "These coloring books are a great way for kids to be creative without making a mess. They use water to reveal the images, so there's no need for markers or crayons.",
+        "rating": 4.3,
+        "price": 1299
+      },
+      {
+        
+        "description": "This play dough set is a great way for kids to be creative and have fun. It comes with a variety of tools and colors, so kids can create whatever they can imagine.",
+        "rating": 4.4,
+        "price": 1199
+      },
+      {
+
+        "description": "This Lego set is a great way for kids to be creative and have fun. It comes with a variety of Lego pieces, so kids can build whatever they can imagine.",
+        "rating": 4.6,
+        "price": 1499
+      },
+      {
+
+        "description": "This sequin art kit is a great way for kids to be creative and have fun. It comes with a variety of sequins and patterns, so kids can create whatever they can imagine.",
+        "rating": 4.7,
+        "price": 1299
+      }
+      
+      
+    ]
+  }
